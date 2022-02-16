@@ -27,3 +27,4 @@
 ### __Notes:__
 * MEE6 bot is optional to delete the message history
 * Delete the json file to reset the Auto-OwO
+* Update channel and Grind channel cannot be the same
